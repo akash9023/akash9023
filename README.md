@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @akash9023
+- 👀 I’m interested in data-science...
+- 🌱 I’m currently learning python,sql,statistics,java...
+- 📫 How to reach me ...
+
+<!---
+akash9023/akash9023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
